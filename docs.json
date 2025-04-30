@@ -11,18 +11,18 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Doku",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
+              "registrierung",
               "quickstart",
               "development"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Profile",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -30,6 +30,17 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "AI Hubs",
+            "pages": [
+              "hubs/content",
+              "hubs/media",
+              "hubs/images",
+              "hubs/settings",
+              "hubs/navigation",
+              "hubs/reusable-snippets"
             ]
           }
         ]
