@@ -58,17 +58,17 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "AI Fellows Webseite",
+          "href": "https://aifellows.eu",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "AI Registrierung",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
+          "anchor": "AI fellows Login",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
